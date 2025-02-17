@@ -1,7 +1,7 @@
 # Arun Bhandari
 
 Hi there! 👋  
-Welcome to my GitHub profile! I'm passionate about transforming raw data into meaningful insights that drive decision-making. As a **fresher** in the field of **Data Analytics and Machine Learning**, I am continuously learning and building projects to strengthen my expertise.  
+Welcome to my GitHub profile! I'm passionate about transforming raw data into meaningful insights that drive decision-making. As a **fresher** in the field of **Data Analyst and Machine Learning**, I am continuously learning and building projects to strengthen my expertise.  
 
 ---
 
